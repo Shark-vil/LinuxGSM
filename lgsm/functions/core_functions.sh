@@ -748,11 +748,6 @@ functionfile="${FUNCNAME[0]}"
 fn_fetch_function
 }
 
-install_stats.sh(){
-functionfile="${FUNCNAME[0]}"
-fn_fetch_function
-}
-
 install_steamcmd.sh(){
 functionfile="${FUNCNAME[0]}"
 fn_fetch_function
