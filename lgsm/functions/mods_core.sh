@@ -230,7 +230,7 @@ fn_mods_define(){
 if [ -z "$index" ]; then
 	fn_script_log_fatal "index variable not set. Please report an issue."
 	fn_print_error "index variable not set. Please report an issue."
-	echo -e "* https://github.com/GameServerManagers/LinuxGSM/issues"
+	echo -e "* https://github.com/Shark-vil/LinuxGSM/issues"
 	core_exit.sh
 fi
 	modcommand="${mods_global_array[index+1]}"

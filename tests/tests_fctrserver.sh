@@ -53,7 +53,7 @@ travistest="1"
 ## GitHub Branch Select
 # Allows for the use of different function files
 # from a different repo and/or branch.
-githubuser="GameServerManagers"
+githubuser="Shark-vil"
 githubrepo="LinuxGSM"
 githubbranch="${TRAVIS_BRANCH}"
 
