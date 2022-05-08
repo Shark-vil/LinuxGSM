@@ -3,26 +3,22 @@
   <a href="https://linuxgsm.com"><img src="https://i.imgur.com/Eoh1jsi.jpg" alt="LinuxGSM"></a>
 </h1>
 
-<h2>Оригинальный установщик <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png" alt="RussianFlag"></h2>
+<h2>Install LinuxGSM for the server:</h2>
+<blockquote>
+	wget -O linuxgsm.sh https://raw.githubusercontent.com/Shark-vil/LinuxGSM/master/linuxgsm.sh && chmod +x linuxgsm.sh
+</blockquote>
+
+<h2>Original installer:</h2>
 <blockquote>
 	wget -O linuxgsm.sh https://raw.githubusercontent.com/GameServerManagers/LinuxGSM/master/linuxgsm.sh && chmod +x linuxgsm.sh
 </blockquote>
 
-<br>
-
-<h2>Внимание!</h2>
+<h2>Внимание! <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png" alt="RussianFlag"></h2>
 <p>
 	Если на текущий момент времени сайт <a href="https://linuxgsm.com">LinuxGSM</a> продолжает открываться с ошибкой <strong>Access denied</strong>, есть вероятность, что разработчик внедрит в оригинальный установщик зловредный код, который будет срабатывать на серверах с российскими IP-адресами.
 	<br><br>
 	Внимательно проверяйте последние коммиты и запросы о проблемах в оригинальном репозитории!
 </p>
-
-<hr>
-
-<h2>Install LinuxGSM for the server:</h2>
-<blockquote>
-	wget -O linuxgsm.sh https://raw.githubusercontent.com/Shark-vil/LinuxGSM/master/linuxgsm.sh && chmod +x linuxgsm.sh
-</blockquote>
 
 <hr>
 
