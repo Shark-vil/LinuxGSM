@@ -5,7 +5,7 @@
 
 <h2>Install LinuxGSM for the server:</h2>
 <blockquote>
-	wget -O linuxgsm.sh https://itpony.ru/linuxgsm.sh && chmod +x linuxgsm.sh
+	wget -O linuxgsm.sh https://raw.githubusercontent.com/Shark-vil/LinuxGSM/master/linuxgsm.sh && chmod +x linuxgsm.sh
 </blockquote>
 
 <hr>
