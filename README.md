@@ -3,12 +3,20 @@
   <a href="https://linuxgsm.com"><img src="https://i.imgur.com/Eoh1jsi.jpg" alt="LinuxGSM"></a>
 </h1>
 
-<h2>Install LinuxGSM for the server:</h2>
+<h2>Копия документации <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png" alt="RussianFlag"></h2>
+
+- [lgsm.vincy.ru](https://lgsm.vincy.ru)
+- [lgsm.vincy.ru/docs](https://lgsm.vincy.ru/docs)
+
+<h2>Install LinuxGSM for the server (Оригинальный установщик пока работает)</h2>
 <blockquote>
 	wget -O linuxgsm.sh https://raw.githubusercontent.com/Shark-vil/LinuxGSM/master/linuxgsm.sh && chmod +x linuxgsm.sh
 </blockquote>
 
 <h2>Original installer:</h2>
+<blockquote>
+	wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh
+</blockquote>
 <blockquote>
 	wget -O linuxgsm.sh https://raw.githubusercontent.com/GameServerManagers/LinuxGSM/master/linuxgsm.sh && chmod +x linuxgsm.sh
 </blockquote>
@@ -59,6 +67,8 @@ Each game server has specific dependency requirements. Visit a specific game ser
 ## :blue_book: Documentation
 
 Documentation is found at [linuxgsm.com](https://linuxgsm.com) and [docs.linuxgsm.com](https://docs.linuxgsm.com).
+
+Альтернатива [lgsm.vincy.ru](https://lgsm.vincy.ru) и [lgsm.vincy.ru/docs](https://lgsm.vincy.ru/docs).
 
 ## :question: Support
 
