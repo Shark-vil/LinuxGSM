@@ -8,12 +8,15 @@
 - [lgsm.vincy.ru](https://lgsm.vincy.ru)
 - [lgsm.vincy.ru/docs](https://lgsm.vincy.ru/docs)
 
-<h2>Install LinuxGSM for the server:</h2>
+<h2>Install LinuxGSM for the server (Оригинальный установщик пока работает)</h2>
 <blockquote>
 	wget -O linuxgsm.sh https://raw.githubusercontent.com/Shark-vil/LinuxGSM/master/linuxgsm.sh && chmod +x linuxgsm.sh
 </blockquote>
 
 <h2>Original installer:</h2>
+<blockquote>
+	wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh
+</blockquote>
 <blockquote>
 	wget -O linuxgsm.sh https://raw.githubusercontent.com/GameServerManagers/LinuxGSM/master/linuxgsm.sh && chmod +x linuxgsm.sh
 </blockquote>
