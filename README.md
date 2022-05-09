@@ -60,6 +60,8 @@ Each game server has specific dependency requirements. Visit a specific game ser
 
 Documentation is found at [linuxgsm.com](https://linuxgsm.com) and [docs.linuxgsm.com](https://docs.linuxgsm.com).
 
+Альтернатива [linuxgsm.com](https://lgsm.vincy.ru) и [docs.linuxgsm.com](https://lgsm.vincy.ru/docs).
+
 ## :question: Support
 
 There are various ways to get support, check out the [support](https://linuxgsm.com/support/) page to the right support.
