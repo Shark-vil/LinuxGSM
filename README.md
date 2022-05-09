@@ -3,7 +3,7 @@
   <a href="https://linuxgsm.com"><img src="https://i.imgur.com/Eoh1jsi.jpg" alt="LinuxGSM"></a>
 </h1>
 
-<h2>Копия документации:</h2>
+<h2>Копия документации <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png" alt="RussianFlag"></h2>
 
 - [lgsm.vincy.ru](https://lgsm.vincy.ru)
 - [lgsm.vincy.ru/docs](https://lgsm.vincy.ru/docs)
