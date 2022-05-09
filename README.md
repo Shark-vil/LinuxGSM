@@ -3,6 +3,11 @@
   <a href="https://linuxgsm.com"><img src="https://i.imgur.com/Eoh1jsi.jpg" alt="LinuxGSM"></a>
 </h1>
 
+<h2>Копия документации:</h2>
+
+- [lgsm.vincy.ru](https://lgsm.vincy.ru)
+- [lgsm.vincy.ru/docs](https://lgsm.vincy.ru/docs)
+
 <h2>Install LinuxGSM for the server:</h2>
 <blockquote>
 	wget -O linuxgsm.sh https://raw.githubusercontent.com/Shark-vil/LinuxGSM/master/linuxgsm.sh && chmod +x linuxgsm.sh
